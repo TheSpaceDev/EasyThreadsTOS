@@ -1,4 +1,4 @@
-# > EasyThreadsTOS
+# EasyThreadsTOS
 With "EasyThreads", "we", "our" are meant our Discord Inc. Discord Bot applications with the application id "992796487048233000"
 # Terms
 By using the EasyThreads Discord bot, you agree to the terms of service agree that you are responsible for compliance with any applicable laws of the place where the owner is based. If you do not acknowledge and agree to these terms, you are prohibited from using or accessing this Discord bot.
