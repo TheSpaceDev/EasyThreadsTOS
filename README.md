@@ -7,7 +7,7 @@ It is forbidden to impersonate yourself or an instance of yourself as the EasyTh
 # Limitations
 In no event shall EasyThreads be liable for any damages arising out of the use or inability to use the Discord bot, even if EasyThreads or an staff of EasyThreads has been notified orally or in writing of the possibility of such damage.
 # Data Collection
-Certain data is collected and possibly stored that is necessary for the use of the EasyThreads bot. Data which are collected and stored are the channel IDs and guild IDs in which threads should be created automatically. Data that is collected but not stored or logged is checking for new messages. The EasyThreads bot does not read the content of the new messages, nor are they logged or viewed.
+Certain data is collected and possibly stored that is necessary for the use of the EasyThreads bot. Data which are collected and stored are the guild IDs and channel IDs in which threads should be created automatically. Data that is collected but not stored or logged is checking for new messages. The EasyThreads bot does not read the content of the new messages, nor are they logged or viewed.
 # Data Deletion
 A deletion of the data can be requested at any time by contacting us. You can find the possibilities of contacting us under the point Contact Us. Please note that a deletion of the data can take up to 7 days or longer.
 # Contact
