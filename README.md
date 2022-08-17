@@ -7,9 +7,9 @@ It is forbidden to impersonate yourself or an instance of yourself as the EasyTh
 # Limitations
 In no event shall EasyThreads be liable for any damages arising out of the use or inability to use the Discord bot, even if EasyThreads or an staff of EasyThreads has been notified orally or in writing of the possibility of such damage.
 # Data Collection
-Certain data is collected and possibly stored that is necessary for the use of the EasyThreads bot. Data which are collected and stored are the guild IDs and channel IDs in which threads should be created automatically. Data that is collected but not stored or logged is checking for new messages. The EasyThreads is also reading the message content to create the Thread with the correct name, but it doesn't save or log this conent.
+Certain data is collected and possibly stored that is necessary for the use of the EasyThreads bot. Data which are collected and stored are the guild IDs and channel IDs in which threads should be created automatically. Data that is collected but not stored or logged is checking for new messages. The EasyThreads is also reading the message content to create the Thread with the correct name, but it doesn't save or log this conent. Please read our Privacy Policy for more information about this.
 # Data Deletion
-A deletion of the data can be requested at any time by contacting us. You can find the possibilities of contacting us under the point Contact Us. Please note that a deletion of the data can take up to 7 days or longer.
+A deletion of the data can be requested at any time by contacting us. You can find the possibilities of contacting us under the point Contact Us. Please note that a deletion of the data can take up to 7 days or longer. Please read our Privacy Policy for more information about this.
 # Contact
 You can contact us by joining our Discord server (https://discord.gg/nEsHB6hGaZ). You can get a link to it by using the "/help" command. On the Discord server you can contact a staff member or create a support ticket. If you dont want to join our Discord Server you can also send an email to niklas@n1klas99.de
 # Useful Links:
