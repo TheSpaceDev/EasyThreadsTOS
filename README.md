@@ -13,6 +13,5 @@ A deletion of the data can be requested at any time by contacting us. You can fi
 # Contact
 You can contact us by joining our Discord server (https://discord.gg/nEsHB6hGaZ). You can get a link to it by using the "/help" command. On the Discord server you can contact a staff member or create a support ticket. If you dont want to join our Discord Server you can also send an email to niklas@n1klas99.de
 # Useful Links:
-Privacy: https://github.com/99Niklas99/EasyThreadsPrivacy/
 Bot Invite: https://discord.com/api/oauth2/authorize?client_id=992796487048233000&permissions=395137256448&scope=applications.commands%20bot
 Support Server: https://discord.gg/3rgReesP5Q
