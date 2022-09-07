@@ -2,12 +2,12 @@
 With "EasyThreads", "we", "our" are meant our Discord Inc. Discord Bot applications with the application id "992796487048233000"
 # Terms
 By using the EasyThreads Discord bot, you agree to the terms of service agree that you are responsible for compliance with any applicable laws of the place where the owner is based. If you do not acknowledge and agree to these terms, you are prohibited from using or accessing this Discord bot.
-# Copyright
+# 
 It is forbidden to impersonate yourself or an instance of yourself as the EasyThreads bot, or to copy the bot in this form without modification and impersonate it as your own. 
 # Limitations
 In no event shall EasyThreads be liable for any damages arising out of the use or inability to use the Discord bot, even if EasyThreads or an staff of EasyThreads has been notified orally or in writing of the possibility of such damage.
 # Data Collection
-Certain data is collected and possibly stored that is necessary for the use of the EasyThreads bot. Data which are collected and stored are the guild IDs and channel IDs in which threads should be created automatically. Data that is collected but not stored or logged is checking for new messages. The EasyThreads is also reading the message content to create the Thread with the correct name, but it doesn't save or log this conent. Please read our Privacy Policy for more information about this.
+Certain data is collected and possibly stored that is necessary for the use of the EasyThreads bot. You can find which Datas are collected in our Pricacy Policy. 
 # Data Deletion
 A deletion of the data can be requested at any time by contacting us. You can find the possibilities of contacting us under the point Contact Us. Please note that a deletion of the data can take up to 7 days or longer. Please read our Privacy Policy for more information about this.
 # Contact
