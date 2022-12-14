@@ -11,7 +11,7 @@ Certain data is collected and possibly stored that is necessary for the use of t
 # Data Deletion
 A deletion of the data can be requested at any time by contacting us. You can find the possibilities of contacting us under the point Contact Us. Please note that a deletion of the data can take up to 7 days or longer. Please read our Privacy Policy for more information about this.
 # Contact
-You can contact us by joining our Discord server (https://discord.gg/nEsHB6hGaZ). You can get a link to it by using the "/help" command. On the Discord server you can contact a staff member or create a support ticket. If you dont want to join our Discord Server you can also send an email to niklas@n1klas99.de
+You can contact us by joining our Discord server (https://discord.gg/nEsHB6hGaZ). You can get a link to it by using the "/help" command. On the Discord server you can contact a staff member or create a support ticket. 
 # Useful Links:
 Bot Invite: https://discord.com/api/oauth2/authorize?client_id=992796487048233000&permissions=395137256448&scope=applications.commands%20bot
 Support Server: https://discord.gg/3rgReesP5Q
